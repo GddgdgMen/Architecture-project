@@ -1,4 +1,4 @@
-# Architecture-project
+# software-architecture-lab1
  
 Лабораторна Робота №1 для курсу архітектури
 
